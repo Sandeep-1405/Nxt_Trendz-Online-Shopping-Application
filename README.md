@@ -1,5 +1,4 @@
-# React Context Part | 4
+# React Nxt_Trendz online shopping application
 
-- Empty Cart View
-- Displaying Cart Items Count
+
 - Deployment
